@@ -1,7 +1,5 @@
 # freeamazinglinks
-W
-[Wikipedia](https://www.wikipedia.com)
-
+W 
 [Google](https://www.google.com)
 
 [YouTube](https://www.youtube.com)
